@@ -68,6 +68,7 @@ const data = {
     title: 'Key skills',
     list: [
       { text: 'React' },
+       {text:'MySql'},
       { text: 'JavaScript, ' },
       { text: 'Responsive Web Design' },
       { text: 'HTML5, CSS3' },
@@ -123,6 +124,30 @@ const data = {
         description: `
         Any one can see the latest news about All current affairs.
         News can be update as well. It shows 7 country news .`,
+      
+      },
+      {
+        name: 'CV', 
+        techList: [
+          'React',
+          'JavaScript',
+          'Html',
+          'Material-UI',
+        ],
+        description: `
+        I created my profile in Application .`,
+      
+      },
+      {
+        name: 'Expences-App', 
+        techList: [
+          'React',
+          'JavaScript',
+          'Html',
+          'Material-UI',
+        ],
+        description: `
+        In this App you mention all day expences and check day by day .`,
       
       },
       
